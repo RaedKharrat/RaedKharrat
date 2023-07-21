@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+![image](https://github.com/RaedKharrat/RaedKharrat/assets/52102594/9c3f7c43-0e70-4905-9f9a-7846a5c1de06)<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
 <h3 align="center">A passionate Software Engineer From Tunisia</h3>
