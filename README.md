@@ -1,3 +1,4 @@
+![image](https://github.com/RaedKharrat/RaedKharrat/assets/52102594/92fd2df0-7ae8-4329-a30e-474dc78dbd83)
 
 
 <h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
