@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
 <h3 align="center">A passionate Software Engineer Student From Tunisia </h3>
-<img align="right" alt="coding" width="400" src="(https://camo.githubusercontent.com/b1192f6ff2e95663fdcb3ed7174b7ee771456a716da8335e55dfe678d0436a28/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303338372e676966)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 Welcome to my GitHub repository!
 
 
