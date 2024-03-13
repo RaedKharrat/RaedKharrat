@@ -7,22 +7,22 @@
 Welcome to my GitHub repository!
 
 
-🎓 Academic Journey:
+🎓 <strong> Academic Journey:</strong> 🎓
 I'm currently pursuing a degree in Software Engineering, and this repository reflects my progress, growth, and accomplishments as a student. Throughout my academic journey, I've had the opportunity to delve into various programming languages, frameworks, and development methodologies. Expect to find a diverse range of projects that showcase my evolving skills and dedication to the craft.
 
-💼 Freelance Adventures:
+💼 <strong>Freelance Adventures:</strong>💼
 In addition to my studies, I'm an enthusiastic freelancer. This means I'm not only learning in the classroom but also applying my knowledge and problem-solving skills in real-world scenarios. My freelance work has exposed me to different industries and challenges, honing my ability to create efficient and reliable solutions for clients.
 
-🚀 My Interests:
+🚀 <strong>My Interests</strong> 🚀
 I have a deep love for all things tech and software development. From web and mobile applications to machine learning and data analysis, I am always eager to explore new technologies and innovate. My passion for coding drives me to continually seek out exciting projects and tackle complex problems with creative solutions.
 
-🔍 What You'll Find Here:
+🔍 <strong> What You'll Find Here </strong>🔍
 As you browse through my GitHub, you'll come across a collection of projects that demonstrate my versatility and dedication to excellence. These projects vary in complexity, ranging from small code snippets to full-fledged applications. Whether it's a personal project or a collaborative effort, I'm committed to writing clean, well-documented, and maintainable code.
 
-🌱 Continuous Learning:
+🌱 <strong> Continuous Learning <strong>🌱
 Learning is a never-ending journey, and I'm a firm believer in continuous self-improvement. Therefore, you might notice my repositories being updated regularly as I strive to incorporate the latest industry best practices and stay up-to-date with cutting-edge technologies.
 
-🤝 Let's Connect:
+🤝 <strong> Let's Connect <strong>🤝
 I'm always open to collaboration and welcome feedback from the developer community. If you find something interesting or have suggestions for improvement, feel free to open issues or reach out to me directly. I believe that the best ideas are born through collaboration, and I'm excited to learn from and contribute to the community.
 
 
