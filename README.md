@@ -7,10 +7,10 @@
 Welcome to my GitHub repository!
 
 
-🎓 <strong> Academic Journey:</strong> 🎓
+🎓 <strong> Academic Journey</strong> 🎓
 I'm currently pursuing a degree in Software Engineering, and this repository reflects my progress, growth, and accomplishments as a student. Throughout my academic journey, I've had the opportunity to delve into various programming languages, frameworks, and development methodologies. Expect to find a diverse range of projects that showcase my evolving skills and dedication to the craft.
 
-💼 <strong>Freelance Adventures:</strong>💼
+💼 <strong>Freelance Adventures</strong>💼
 In addition to my studies, I'm an enthusiastic freelancer. This means I'm not only learning in the classroom but also applying my knowledge and problem-solving skills in real-world scenarios. My freelance work has exposed me to different industries and challenges, honing my ability to create efficient and reliable solutions for clients.
 
 🚀 <strong>My Interests</strong> 🚀
