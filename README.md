@@ -3,26 +3,20 @@
 
 <h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
 <h3 align="center">A passionate Software Engineer Student From Tunisia (Open to work)</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 
 
-🎓 <strong> Academic Journey</strong> 🎓
-<p>I'm currently pursuing a degree in Software Engineering, and this repository reflects my progress, growth, and accomplishments as a student. Throughout my academic journey, I've had the opportunity to delve into various programming languages, frameworks, and development methodologies. Expect to find a diverse range of projects that showcase my evolving skills and dedication to the craft.</p>
+🎓<strong> Academic Journey </strong>🎓
+<p>I'm currently pursuing a degree in Software Engineering (last year), and this repository reflects my progress, growth, and accomplishments as a student. Throughout my academic journey, I've had the opportunity to delve into various programming languages, frameworks, and development methodologies. Expect to find a diverse range of projects that showcase my evolving skills and dedication to the craft.</p>
 
-💼 <strong>Freelance Adventures</strong>💼
+💼<strong> Freelance Adventures </strong>💼
 <p>In addition to my studies, I'm an enthusiastic freelancer. This means I'm not only learning in the classroom but also applying my knowledge and problem-solving skills in real-world scenarios. My freelance work has exposed me to different industries and challenges, honing my ability to create efficient and reliable solutions for clients.</p>
 
-🚀 <strong>My Interests</strong> 🚀
-<p>I have a deep love for all things tech and software development. From web and mobile applications to machine learning and data analysis, I am always eager to explore new technologies and innovate. My passion for coding drives me to continually seek out exciting projects and tackle complex problems with creative solutions.</p>
-
-🔍 <strong> What You'll Find Here </strong>🔍
-<p>As you browse through my GitHub, you'll come across a collection of projects that demonstrate my versatility and dedication to excellence. These projects vary in complexity, ranging from small code snippets to full-fledged applications. Whether it's a personal project or a collaborative effort, I'm committed to writing clean, well-documented, and maintainable code.</p>
-
-🌱 <strong> Continuous Learning <strong>🌱
+🌱<strong> Continuous Learning <strong>🌱
 <p>Learning is a never-ending journey, and I'm a firm believer in continuous self-improvement. Therefore, you might notice my repositories being updated regularly as I strive to incorporate the latest industry best practices and stay up-to-date with cutting-edge technologies.</p>
 
-🤝 <strong> Let's Connect <strong>🤝
+🤝<strong> Let's Connect <strong>🤝
 <p>I'm always open to collaboration and welcome feedback from the developer community. If you find something interesting or have suggestions for improvement, feel free to open issues or reach out to me directly. I believe that the best ideas are born through collaboration, and I'm excited to learn from and contribute to the community.</p>
 
 
@@ -32,7 +26,6 @@ Thank you for stopping by my GitHub! Happy coding! 🚀
 <p align="left">
 <a href="https://www.linkedin.com/in/raedkharrat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kharrat-raed-3348a8194/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/adam.kh.5055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adam.kh.5055/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jacki5.kh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jacki5.kh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
