@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
 <h3 align="center">A passionate Software Engineer Student From Tunisia (Open to work)</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" height="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 
 
