@@ -126,8 +126,3 @@ I'm a **final-year Software Engineering student** with strong coding fundamental
 
 ---
 
-### 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://github.com/RaedKharrat/RaedKharrat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
