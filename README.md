@@ -1,19 +1,78 @@
-<h1 align="center">Hi 👋, I'm Raed Kharrat</h1> <h3 align="center">A Passionate Software Engineering Student from Tunisia (Open to Work)</h3> <img align="right" alt="coding" width="400" height="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g">
-🚀 About Me
-I'm a final-year Software Engineering student with a strong foundation in software development and a passion for continuous learning. My journey has equipped me with a diverse skill set and a hands-on approach to problem-solving, both academically and professionally.
+<h1 align="center">🚀 Hey there! I'm <span style="color:#0abde3;">Raed Kharrat</span> 👋</h1>
+<h3 align="center">💻 Final-Year Software Engineering Student | Tunisia 🇹🇳 | Open to Work</h3>
 
-🎓 Academic Journey
-I'm currently pursuing a degree in Software Engineering, where I've been immersed in a variety of programming languages, frameworks, and development methodologies. My GitHub repository reflects my academic growth, showcasing projects and dedication to becoming a proficient software engineer.
+<p align="center">
+  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300" alt="coding-gif"/>
+</p>
 
-💼 Freelance Adventures
-Outside the classroom, I dive into freelance projects that allow me to apply my knowledge in real-world scenarios. These experiences have honed my ability to craft efficient, reliable solutions tailored to client needs across various industries.
+---
 
-🌱 Continuous Learning
-I'm a firm believer in lifelong learning. My repositories are regularly updated as I integrate the latest industry practices and explore new technologies. Staying ahead of the curve is a priority for me, ensuring that my skills remain sharp and relevant.
+### 🧠 Who Am I?
+I'm a **final-year Software Engineering student** passionate about turning ideas into reality through code. From front-end finesse to back-end brains, I craft applications with both performance and user experience in mind.
 
-🌐 Connect with Me:
-<p align="center"> <a href="https://www.linkedin.com/in/raedkharrat/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://fb.com/adam.kh.5055/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> </p>
-🛠️ Languages and Tools:
-<div align="center"> <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40" /> <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="Spring Boot" width="40" height="40" /> </div> </div>
-📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaedKharrat&show_icons=true&locale=en&layout=compact" alt="RaedKharrat" /> <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&locale=en" alt="RaedKharrat" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaedKharrat&" alt="RaedKharrat" /> </div>
+---
+
+### 💼 What I Do
+- 🔧 **Freelance Projects:** Delivering client-focused software solutions in various domains.
+- 🧪 **Academic Projects:** Applying solid CS fundamentals to build functional, scalable applications.
+- 🔄 **Constant Learner:** I stay on the bleeding edge of tech, always trying new tools, frameworks, and best practices.
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raedkharrat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/adam.kh.5055/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="Symfony"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring Boot"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaedKharrat&theme=radical" alt="Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaedKharrat&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌀 Fun Fact:
+> My code might not run on the first try...  
+> But it’ll definitely crash in style! 😎
+
+---
+
+🔥 _“Build like an artist, debug like a detective.”_
