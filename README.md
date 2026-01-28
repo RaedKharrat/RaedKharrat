@@ -1,128 +1,94 @@
-<h1 align="center">Hi 👋, I'm Raed Kharrat</h1>
-<h3 align="center">💻 Passionate Software Engineering Student from Tunisia | Open to Work 🌍</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Raed%20Kharrat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Full%20Stack%20Engineer&descAlignY=55&descSize=25" width="100%" />
+
+  <h3>🚀 Specialized in Building AI-Driven Web & Mobile Applications</h3>
+  <p>
+    <b>LLMs / GenAI / Computer Vision / ML & DL</b>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/raedkharrat/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:raed.kharrat@esprit.tn" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 🧠 Profile Overview
+
+I am a **Full-Stack Engineer** and **Freelance AI Developer** dedicated to bridging the gap between traditional software architecture and cutting-edge Artificial Intelligence. My expertise lies in architecting scalable full-stack ecosystems that leverage the power of **LLMs, Generative AI, and Computer Vision** to solve complex real-world problems.
+
+- 🔭 **Currently working on:** Advanced RAG systems and multimodal AI agents.
+- 🌱 **Learning deeper into:** Efficient fine-tuning of Large Language Models and Edge AI.
+- 💬 **Ask me about:** Integration of AI into React/Next.js and Flutter apps.
+- ⚡ **Fun fact:** I believe every application will soon have an AI "brain" at its core.
+
+---
+
+### �️ Tech Universe
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Artificial Intelligence</b></td>
+    <td align="center" width="250"><b>Frameworks & Core</b></td>
+    <td align="center" width="250"><b>Mobile & Platforms</b></td>
+    <td align="center" width="250"><b>Cloud & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="valign">
+      • LLMs (GPT, Llama, Claude)<br/>
+      • RAG & Vector Databases<br/>
+      • GenAI (Stable Diffusion)<br/>
+      • Computer Vision (YOLO, OpenCV)<br/>
+      • ML/DL (PyTorch, TensorFlow)
+    </td>
+    <td align="valign">
+      • React / Next.js<br/>
+      • NestJS / Node.js<br/>
+      • Python / FastAPI<br/>
+      • Spring Boot / Java<br/>
+      • Symfony / PHP
+    </td>
+    <td align="valign">
+      • Flutter (Dart)<br/>
+      • React Native<br/>
+      • Swift (iOS)<br/>
+      • Kotlin (Android)<br/>
+      • Embedded C/C++
+    </td>
+    <td align="valign">
+      • Docker / Kubernetes<br/>
+      • CI/CD (Jenkins, GitHub Actions)<br/>
+      • PostgreSQL / MongoDB / Redis<br/>
+      • AWS / Vercel<br/>
+      • Grafana / Prometheus
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Productivity
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952eiy7hbhlcc4sj0qfhnb941cpf385xmpzkekltm5w&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300" alt="Coding" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedKharrat&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaedKharrat&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakNum=007ACC" width="80%" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-I'm a **final-year Software Engineering student** with strong coding fundamentals, real-world freelance experience, and a constant desire to level up my tech game. I build full-stack projects, dive deep into software architecture, and stay up-to-date with modern technologies.
-
----
-
-### 🎓 Academic & Freelance Journey
-
-📘 Studying Software Engineering  
-⚒️ Working on real-world freelance projects  
-🚀 Exploring tech from embedded systems to scalable web apps  
-🌱 Always learning, building, and sharing
-
----
-
-### 🌐 Connect with Me
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raedkharrat/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/adam.kh.5055/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <i>"Code is the brush, and AI is the infinite canvas."</i>
 </p>
-
----
-
-### ⚙️ Tech Stack & Tools
-
-<details>
-  <summary><b>🧑‍💻 Languages</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🚀 Frameworks & Libraries</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-    <img src="https://nestjs.com/img/logo-small.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🎨 Front-End & Design</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🛢️ Databases</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📱 Mobile</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React Native" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  </p>
-</details>
-
-<details>
-  <summary><b>⚙️ DevOps & Tools</b></summary>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-    <img src="https://www.sonarqube.org/logos/index/sonarqube-logo.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  </p>
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaedKharrat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaedKharrat" alt="GitHub Streak" />
-</p>
-
----
-
