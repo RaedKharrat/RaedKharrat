@@ -1,77 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Raed%20Kharrat&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Full-Stack%20Engineer&descAlignY=55&descSize=25" width="100%" />
 
-  <h3>🚀 Building Scalable Full-Stack & AI-Driven Systems</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Raed%20Kharrat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20Engineer&descAlignY=55&descSize=20" width="100%" />
 
-  <p>
-    <b>GenAI • LLMs • RAG Systems • Computer Vision • Distributed Web Apps</b>
-  </p>
+<h3>🚀 Full-Stack Software Engineer | AI Systems Builder</h3>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/raedkharrat/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
+<p>
+Building scalable web & mobile applications powered by modern backend systems and AI.
+</p>
 
-    <a href="mailto:kharrat.raed99@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+<p>
+<b>GenAI • LLMs • RAG • System Design • Cloud Engineering</b>
+</p>
 
-    <a href="https://raed-kh-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-  </p>
+<p>
+  <a href="https://linkedin.com/in/raedkharrat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kharrat.raed99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://raed-kh-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Full-Stack Software Engineer** focused on building scalable web, mobile, and AI systems.  
-I design production-ready architectures combining backend engineering, cloud systems, and Generative AI.
+Full-Stack Engineer focused on building **production-ready software systems and AI-powered applications**.
 
-- 🔭 Currently building: AI agents and RAG-based enterprise systems  
-- 🌱 Exploring: LLM fine-tuning, multimodal AI, edge AI  
-- 💬 Ask me about: AI integration in React / Next.js / Flutter apps  
-- ⚡ Passion: Turning complex systems into intelligent products  
+I specialize in:
+- Scalable backend architectures
+- AI integrations (LLMs, RAG, automation)
+- Real-time and distributed systems
+- Mobile + web full-stack development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / Machine Learning
-- LLMs (OpenAI, Llama, Claude)
+### 🧠 AI & Machine Learning
+- OpenAI / LLM APIs
 - RAG Systems & Vector Search
-- Computer Vision (OpenCV, YOLO)
-- Deep Learning (PyTorch, TensorFlow)
+- PyTorch, TensorFlow
+- OpenCV (Computer Vision)
 - AI Agents & Automation
 
-### 🖥️ Backend & Frontend
-- React / Next.js
+### ⚙️ Backend
 - Node.js / NestJS
 - FastAPI / Python
 - Symfony / PHP
-- REST & Event-Driven APIs
+- REST APIs & Microservices
+- Event-driven systems
 
-### 📱 Mobile Development
+### 🎨 Frontend
+- React.js / Next.js
+- Vite
+- Modern component-based UI architecture
+
+### 📱 Mobile
 - Flutter (Dart)
 - React Native
-- Android (Kotlin)
-- iOS (Swift)
+- Kotlin (Android)
+- Swift (iOS)
 
-### ☁️ DevOps & Data
-- Docker / CI-CD
-- PostgreSQL / MongoDB / Redis
+### 🗄️ Databases
+- PostgreSQL
+- MongoDB
+- Redis
+
+### ☁️ DevOps
+- Docker
 - Git / GitHub Actions
+- CI/CD pipelines
 - AWS / Vercel
-- System Design
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedKharrat&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedKharrat&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -83,5 +98,5 @@ I design production-ready architectures combining backend engineering, cloud sys
 ## 💡 Philosophy
 
 <p align="center">
-  <i>"I build systems where software meets intelligence."</i>
+  <i>“I build systems that turn intelligence into scalable software.”</i>
 </p>
