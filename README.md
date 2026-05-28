@@ -45,7 +45,8 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 ### 🧠 AI & Machine Learning
-- OpenAI / LLM APIs
+- Gemini / OpenAI / LLM APIs
+- Hugging Face (Diffusers, Transformers, Inference API, image & video generation models)
 - RAG Systems & Vector Search
 - PyTorch, TensorFlow
 - OpenCV (Computer Vision)
