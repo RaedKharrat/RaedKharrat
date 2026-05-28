@@ -85,12 +85,12 @@ I specialize in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedKharrat&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaedKharrat&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedKharrat&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaedKharrat&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=RaedKharrat&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
 ---
